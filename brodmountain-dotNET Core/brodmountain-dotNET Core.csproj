@@ -7,4 +7,9 @@
         <RootNamespace>brodmountain_dotNET_Core</RootNamespace>
     </PropertyGroup>
 
+    <ItemGroup>
+      <Folder Include="Controllers" />
+      <Folder Include="Models" />
+    </ItemGroup>
+
 </Project>
